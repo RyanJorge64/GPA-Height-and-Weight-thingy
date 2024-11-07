@@ -1,0 +1,31 @@
+body {
+	font-family: Arial;
+}
+
+#acoolButton {
+	margin: auto;
+	justify-content: center;
+	background-color: black;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	color: white;
+	cursor: pointer;
+	display: flex;
+	margin-top: 20px;
+}
+
+#acoolButton:hover {
+	background-color: #2d2e2e;
+}
+
+#theResults {
+	display: flex;
+	padding: 20px;
+	border-radius: 4px;
+	box-sizing: border-size;
+	height: 100px;
+	text-align: center;
+	margin: auto;
+	
+}
